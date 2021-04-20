@@ -20,3 +20,5 @@ Here is the list of the talks given by me:
 |22.11.19|ArchDays                             |Строим систему: простые компоненты и умное окружение   |https://archdays.ru/#speaker-106_140   https://youtu.be/kjc2FowRxxY|
 |02.10.19|DevOpsConf                           |Сделаем микросервисы легковесными снова                |https://devopsconf.io/moscow/2019   https://youtu.be/aZ9Ced8ZoNA|
 |25.06.19|Adeo DevSummit                       |InnerSource can work better — best practices           |https://adeodevsummit2019.sched.com/   https://www.youtube.com/watch?v=Ow5WFFHQCQM&t=96s|
+
+[Other talks...](https://github.com/voborgus/voborgus/blob/main/OTHER_TALKS.MD)
