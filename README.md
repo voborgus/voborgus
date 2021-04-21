@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dmitrii Sugrobov, Developer Advocate at Leroy Merlin Russia.
+I'm Dmitrii Sugrobov, Developer Advocate at [Leroy Merlin Russia](http://leroymerlin.ru/) and member of [InnerSourceCommons Foundation](https://innersourcecommons.org/).
 
 *[Habr](https://habr.com/ru/users/sugrobov/posts/) • [LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Instagram](https://www.instagram.com/dsugrobov/) • No twitter*
 
