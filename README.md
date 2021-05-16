@@ -14,6 +14,7 @@ Here is the list of the talks given by me:
 |30.06.21|TechLead Conf                        |InnerSource — Инструкция по применению                 |https://techleadconf.ru/2021/abstracts/7444            |
 |30.05.21|DevOpsConf                           |Dev.+Ops — чему нас учат новые миры?                   |https://devopsconf.io/moscow/2021/abstracts/7480       |
 |29.05.21|CodeFest                             |*Program Committee of backend section*                 |https://11.codefest.ru/                                |
+|18.05.21|Github Planeta                       |Введение в InnerSource                                 |https://www.meetup.com/github-planeta/events/277815641/|
 |18.04.20|JEEConf (отменена)                   |Finding an optimal ride to Kubernetes                  |https://jeeconf.com/program/finding-an-optimal-ride-to-kubernetes/|
 |14.04.20|InnerSourceCommons Summit 10 (онлайн)|Global InnerSource adoption at once                    |http://innersourcecommons.org/events/isc-spring-2020/   https://www.youtube.com/watch?v=Wzg8h30OhK8|
 |29.11.19|Kubernetes meetup @ mail.ru          |Helm глазами разработчиков. RollingUpdate Puzzle       |https://corp.mail.ru/ru/press/events/at-kubernetes-conference/   https://youtu.be/w1PhTe9gnOI|
