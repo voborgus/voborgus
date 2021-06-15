@@ -6,12 +6,12 @@ I'm Dmitrii Sugrobov, Developer Advocate at [Leroy Merlin Russia](http://leroyme
 
 Here is the list of the talks given by me:
 
-
 ### Talks
 
 |Date    |Conference                           |Title                                                  |Links                                                  |
 |--------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 |30.06.21|TechLead Conf                        |InnerSource — Инструкция по применению                 |https://techleadconf.ru/2021/abstracts/7444            |
+|15.06.21|Adeo Dev Summit 2021                 |InnerSource Cross Business Units, an accelerator of digital product building|[sched.com](https://adeodevsummit2021.sched.com/event/jiy9/quickie-innersource-cross-business-units-an-accelerator-of-digital-product-building) |
 |30.05.21|DevOpsConf                           |Dev.+Ops — чему нас учат новые миры?                   |https://devopsconf.io/moscow/2021/abstracts/7480       |
 |29.05.21|CodeFest                             |*Program Committee of backend section*                 |https://11.codefest.ru/                                |
 |18.05.21|Github Planeta                       |Введение в InnerSource                                 |https://www.meetup.com/github-planeta/events/277815641/|
