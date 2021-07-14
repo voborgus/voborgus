@@ -3,6 +3,7 @@
 
 |Date    |Conference                           |Title                                                  |Links                                                  |
 |--------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|29.07.21|Open-source, DevRel, Dev Marketing, и зачем все это нужно разработчикам |*Модератор митапа*  |https://hopin.com/events/apache-ignite-russia-meetup-july |
 |14.05.21|DUMP                                 |Dev.+Ops — чему нас учат новые миры                    |https://dump-ekb.ru/devops                             |
 |08.05.21|Подкаст The Art Of Programming       |*Гость подкаста*                                       |https://youtu.be/Oi-yy3yQ2BU                           |
 |09.09.20|Школа Будущих CTO (онлайн)           |DevOps и CI/CD на практике                             |https://ycloud.school/   https://youtu.be/B83CAm9RDw0  |
