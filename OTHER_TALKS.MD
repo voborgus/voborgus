@@ -3,6 +3,8 @@
 
 |Date    |Conference                           |Title                                                  |Links                                                  |
 |--------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|25.09.21|404Fest                              |Dev.+Ops — чему нас учат новые миры                    |https://2021.404fest.ru/program/speakers/?speakerId=2278708 |
+|04.09.21|RndTechConf                          |Dev.+Ops — чему нас учат новые миры                    |https://rndtech.pro/and-the-reason-is-you/tpost/tidpgg0bv1-devops-chemu-nas-uchat-novie-miri |
 |29.07.21|Open-source, DevRel, Dev Marketing, и зачем все это нужно разработчикам |*Модератор митапа*  |https://hopin.com/events/apache-ignite-russia-meetup-july |
 |14.05.21|DUMP                                 |Dev.+Ops — чему нас учат новые миры                    |https://dump-ekb.ru/devops                             |
 |08.05.21|Подкаст The Art Of Programming       |*Гость подкаста*                                       |https://youtu.be/Oi-yy3yQ2BU                           |
