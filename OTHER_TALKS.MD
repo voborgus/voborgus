@@ -3,6 +3,7 @@
 
 |Date    |Conference                           |Title                                                  |Links                                                  |
 |--------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|16.12.21|Международный Научный Форум FIT-M 2021|Бессерверные вычисления для решения прикладных задач  |https://fit-m.org/                                     |
 |25.09.21|404Fest                              |Dev.+Ops — чему нас учат новые миры                    |https://2021.404fest.ru/program/speakers/?speakerId=2278708 |
 |04.09.21|RndTechConf                          |Dev.+Ops — чему нас учат новые миры                    |https://rndtech.pro/and-the-reason-is-you/tpost/tidpgg0bv1-devops-chemu-nas-uchat-novie-miri |
 |29.07.21|Open-source, DevRel, Dev Marketing, и зачем все это нужно разработчикам |*Модератор митапа*  |https://hopin.com/events/apache-ignite-russia-meetup-july |
