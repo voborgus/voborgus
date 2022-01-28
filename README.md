@@ -10,6 +10,7 @@ Here is the list of the talks given by me:
 
 |Date    |Conference                           |Title                                                  |Links                                                  |
 |--------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|09.06.22|TechLead Conf                        |Безболезненный контрибьют по InnerSource или повышаем инженерную зрелость проекта |https://techleadconf.ru/2022/abstracts/8738 |
 |16.12.21|Международный Научный Форум FIT-M 2021|Бессерверные вычисления для решения прикладных задач  |https://fit-m.org/                                     |
 |23.07.21|TeamLead Camp                        |Повышаем инженерную зрелость с помощью InnerSource     |https://teamleadcamp.ru/                               |
 |06.07.21|Открытый практикум Rebrain           |Пакуемся Buildpacks и едем в Kubernetes с помощью Helm |https://rebrainme.com/webinars/devops-we-pack-buildpacks-and-go-to-kybernetes-using-helm/ https://youtu.be/sluc_IYp9Vs|
