@@ -5,8 +5,6 @@ Official member of [InnerSourceCommons Foundation](https://innersourcecommons.or
 
 *[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/) • [Instagram](https://www.instagram.com/dsugrobov/) • No twitter*
 
-Here is the list of the talks given by me:
-
 ### Talks
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
@@ -24,7 +22,7 @@ Here is the list of the talks given by me:
 |18.04.20|JEEConf (conference cancelled)       |Kiev, Ukraine      |Finding an optimal ride to Kubernetes                  |[Abstract](https://jeeconf.com/program/finding-an-optimal-ride-to-kubernetes/)|
 |14.04.20|InnerSourceCommons Summit            |Online             |Global InnerSource adoption at once                    |[Abstract](http://innersourcecommons.org/events/isc-spring-2020/) [Video](https://www.youtube.com/watch?v=Wzg8h30OhK8) |
 |29.11.19|Kubernetes Meetup @ mail.ru          |Moscow, Russia     |Developer view to Helm. RollingUpdate Puzzle [RU]      |[Abstract](https://corp.mail.ru/ru/press/events/at-kubernetes-conference/) [Video](https://youtu.be/w1PhTe9gnOI) |
-|22.11.19|ArchDays                             |Moscow, Russia     |Building the system: simple components and smart environment [RU] |h[Abstract](ttps://archdays.ru/#speaker-106_140) [Video](https://youtu.be/kjc2FowRxxY) |
+|22.11.19|ArchDays                             |Moscow, Russia     |Building the system: simple components and smart environment [RU] |[Abstract](https://archdays.ru/#speaker-106_140) [Video](https://youtu.be/kjc2FowRxxY) |
 |02.10.19|DevOpsConf                           |Moscow, Russia     |Make microservices lightweight again [RU]              |[Abstract](https://devopsconf.io/moscow/2019) [Video](https://youtu.be/aZ9Ced8ZoNA) |
 |25.06.19|Adeo DevSummit                       |Lille, France      |InnerSource can work better — best practices           |[Abstract](https://adeodevsummit2019.sched.com/) [Video](https://www.youtube.com/watch?v=Ow5WFFHQCQM&t=96s) |
 
