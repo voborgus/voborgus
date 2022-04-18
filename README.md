@@ -9,7 +9,7 @@ Official member of [InnerSourceCommons Foundation](https://innersourcecommons.or
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
 |--------|-------------------------------------|-------------------|-------------------------------------------------------|----------------------|
-|09.06.22|TechLead Conf                        |Moscow, Russia     |Safe InnerSource contributing or growing an engineering maturity of the project [RU] |[Abstract](https://techleadconf.ru/2022/abstracts/8738) |
+|09.06.22|TechLead Conf                        |Moscow, Russia     |Safe InnerSource contributing or growing an engineering maturity of the project [RU] |[Abstract](https://techleadconf.ru/2022/abstracts/8918) |
 |27.05.22|Dump                                 |Ekaterinburg, Russia | Serverless for everyone [RU]                        |[Abstract](https://dump-ekb.ru/serverless-v-kazhdyj-dom) |           
 |26.05.22|AgileDays                            |Moscow, Russia     |10 ways to fail cross-team collaboration via InnerSource [RU] |[Abstract](https://agiledays.ru/?speaker=2903) |
 |16.12.21|International Scientific Forum FIT-M |Moscow, Russia     |Serverless Computing for Applied Problems [RU]     |[Abstract](https://fit-m.org/reactor) |
