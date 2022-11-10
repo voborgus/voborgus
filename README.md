@@ -9,9 +9,8 @@ Official member of [InnerSourceCommons Foundation](https://innersourcecommons.or
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
 |--------|-------------------------------------|-------------------|-------------------------------------------------------|----------------------|
-|09.06.22|TechLead Conf                        |Moscow, Russia     |Safe InnerSource contributing or growing an engineering maturity of the project [RU] |[Abstract](https://techleadconf.ru/2022/abstracts/8918) |
-|27.05.22|Dump                                 |Ekaterinburg, Russia | Serverless for everyone [RU]                        |[Abstract](https://dump-ekb.ru/serverless-v-kazhdyj-dom) |           
-|26.05.22|AgileDays                            |Moscow, Russia     |10 ways to fail cross-team collaboration via InnerSource [RU] |[Abstract](https://agiledays.ru/?speaker=2903) |
+|17.11.22|InnerSource Commons Summit 2022      |Online             |Tools and Practices for Successful InnerSource Collaboration |[Abstract](https://innersourcecommons.org/events/isc-2022/) |
+|08.11.22|Joker Conf                           |Online             |JEP-400 or UTF-8 РєРѕРґРёСЂРѕРІРєР° РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ [RU] |[Abstract](https://jokerconf.com/persons/ee4e605cf5744864963738fb059a735a/) [Slides](https://squidex.jugru.team/api/assets/srm/01df8adb-921e-4ff5-b034-c1cabe43f535/jep-400-utf-8-sugrobov.pdf) |
 |16.12.21|International Scientific Forum FIT-M |Moscow, Russia     |Serverless Computing for Applied Problems [RU]     |[Abstract](https://fit-m.org/reactor) |
 |23.07.21|TeamLead Camp                        |Moscow, Russia     |Growing engineering maturity with InnerSource [RU]     |[Abstract](https://teamleadcamp.ru/) |
 |06.07.21|Rebrain Open Practicum               |Online             |Packing with Buildpacks and moving to Kubernetes with Helm [RU] |[Abstract](https://rebrainme.com/webinars/devops-we-pack-buildpacks-and-go-to-kybernetes-using-helm/) [Video](https://youtu.be/sluc_IYp9Vs) |
