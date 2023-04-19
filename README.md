@@ -8,6 +8,7 @@ Official member of [InnerSourceCommons Foundation](https://innersourcecommons.or
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
 |--------|-------------------------------------|-------------------|-------------------------------------------------------|----------------------|
+|14.04.23|FOSSASIA Summit 2023                 |Singapore          |The TOP 10 Ways to Fail with InnerSource Collaboration |[Abstract](https://eventyay.com/e/7cfe0771/session/8060) |
 |17.11.22|InnerSource Commons Summit 2022      |Online             |Tools and Practices for Successful InnerSource Collaboration |[Abstract](https://innersourcecommons.org/events/isc-2022/) |
 |08.11.22|Joker Conf                           |Online             |JEP-400 or UTF-8 РєРѕРґРёСЂРѕРІРєР° РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ [RU] |[Abstract](https://jokerconf.com/persons/ee4e605cf5744864963738fb059a735a/) [Slides](https://squidex.jugru.team/api/assets/srm/01df8adb-921e-4ff5-b034-c1cabe43f535/jep-400-utf-8-sugrobov.pdf) |
 |16.12.21|International Scientific Forum FIT-M |Moscow, Russia     |Serverless Computing for Applied Problems [RU]     |[Abstract](https://fit-m.org/reactor) |
