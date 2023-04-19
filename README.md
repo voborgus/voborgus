@@ -29,6 +29,7 @@ Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/)
 ### Publications
 |Date    |Title                                                                   |Link                                                 |
 |--------|------------------------------------------------------------------------|-----------------------------------------------------|
+|12.01.23|JEP-400 or UTF-8 РєРѕРґРёСЂРѕРІРєР° РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ [RU]        |https://habr.com/ru/companies/jugru/articles/709952/ |
 |29.04.20|Moving conference to online: InnerSource Commons Summit experience [RU] |https://habr.com/ru/company/leroy_merlin/blog/499602/|
 |20.02.20|Helm internals and and its pitfalls [RU]                                |https://habr.com/ru/company/vk/blog/488192/          |
 |06.02.20|Field notes: one of the largest OpenSource conferences FOSDEM 2020 [RU] |https://habr.com/ru/company/leroy_merlin/blog/486978/|
