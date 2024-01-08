@@ -4,10 +4,11 @@ Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/)
 
 *[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/) • [Instagram](https://www.instagram.com/dsugrobov/) • No twitter*
 
-### Talks
+### Talkshttps://epichey.dev/dmitriisugrobov
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
 |--------|-------------------------------------|-------------------|-------------------------------------------------------|----------------------|
+|29.11.23|EpicHey!                             |Lisbon             |Enhancing Cross-Team Contributions: InnerSource Tools and Practices |[Abstract](https://epichey.dev/dmitriisugrobov) |
 |14.04.23|FOSSASIA Summit 2023                 |Singapore          |The TOP 10 Ways to Fail with InnerSource Collaboration |[Abstract](https://eventyay.com/e/7cfe0771/session/8060) |
 |17.11.22|InnerSource Commons Summit 2022      |Online             |Tools and Practices for Successful InnerSource Collaboration |[Abstract](https://innersourcecommons.org/events/isc-2022/) [Video](https://youtu.be/L0PbUSB0DV0) |
 |08.11.22|Joker Conf                           |Online             |JEP-400 or UTF-8 РєРѕРґРёСЂРѕРІРєР° РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ [RU] |[Abstract](https://jokerconf.com/persons/ee4e605cf5744864963738fb059a735a/) [Slides](https://squidex.jugru.team/api/assets/srm/01df8adb-921e-4ff5-b034-c1cabe43f535/jep-400-utf-8-sugrobov.pdf) [Video](https://www.youtube.com/watch?v=nJfArUoAFLY) [Paper](https://habr.com/ru/companies/jugru/articles/709952/) |
