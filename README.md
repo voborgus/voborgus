@@ -4,7 +4,7 @@ Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/)
 
 *[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/) • [Instagram](https://www.instagram.com/dsugrobov/) • No twitter*
 
-### Talkshttps://epichey.dev/dmitriisugrobov
+### Talks
 
 |Date    |Conference                           |Location           |Title                                                  |Links                 |
 |--------|-------------------------------------|-------------------|-------------------------------------------------------|----------------------|
