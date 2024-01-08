@@ -1,8 +1,8 @@
 ## Dmitry Sugrobov
 Engineering Manager at [Leroy Merlin](http://leroymerlin.com/).
-Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/). Program committee member of [CodeFest](https://codefest.ru). Program expert of the DevOps course at [Practicum](https://practicum.com/).
+Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/). Program committee of [EpicHey!](https://epichey.dev/). Author of the DevOps course at [Practicum](https://practicum.yandex.ru/).
 
-*[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/) • [Instagram](https://www.instagram.com/dsugrobov/) • No twitter*
+*[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/)
 
 ### Talks
 
