@@ -1,5 +1,5 @@
 ## Dmitry Sugrobov
-Engineering Manager at [Leroy Merlin](http://leroymerlin.com/).
+Deputy CTO of Platform at [Leroy Merlin](http://leroymerlin.com/).
 Board Member of [InnerSourceCommons Foundation](https://innersourcecommons.org/). Program committee of [EpicHey!](https://epichey.dev/). Author of the DevOps course at [Practicum](https://practicum.yandex.ru/).
 
 *[LinkedIn](https://www.linkedin.com/in/sugrobov) • [Telegram](https://t.me/voborgus) • [Habr](https://habr.com/ru/users/sugrobov/posts/)*
